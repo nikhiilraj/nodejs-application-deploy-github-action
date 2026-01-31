@@ -47,6 +47,13 @@ web_modules/
 # TypeScript cache
 *.tsbuildinfo
 
+# SSH keys
+*.pem
+private
+private.pub
+.ssh/
+
+
 # Optional npm cache directory
 .npm
 
